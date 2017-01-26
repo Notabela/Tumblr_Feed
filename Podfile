@@ -8,5 +8,6 @@ use_frameworks!
 
 # Pods for Instagram_lab
 pod 'AFNetworking', '~> 2.6'
+pod 'MBProgressHUD'
 
 end
